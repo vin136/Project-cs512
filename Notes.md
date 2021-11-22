@@ -15,10 +15,11 @@ Above ideas form the basis for the application of GNN'S to recommender systems. 
 If you want more(not needed) and decided to go down the rabbit hole, here's an informal survey of the [field](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a).
 
 
-## Step 2: Additional Study.(Not mandatory)
+## Step 2: Additional Study.(Not mandatory): Written largely for my future self.
 
 Resources:
 - [For a Code first approach](https://github.com/gordicaleksa/pytorch-GAT)
+- Book [Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/dlg_book.pdf)
 - [A 150 page book on Graph representation learning.](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
 Since the area of Graph Neural Networks is relatively new for us, here I'm adding my notes on the same as I'm learning the subject.
