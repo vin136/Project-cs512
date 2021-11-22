@@ -1,5 +1,19 @@
+## Step 1 : Get comfortable with basics.
+
+To get started,We need some basics. Below I share quick resources to get upto speed. Feel free to use any resources of your liking.
+
+1. Basic idea of Neural networks
+2. [Attention Mechanism](http://peterbloem.nl/blog/transformers)
+3. [Modeling graphs with neural networks.](https://www.youtube.com/watch?v=zCEYiCxrL_0)
+4. Read this [GAN Paper](https://arxiv.org/abs/1710.10903)
+
+If you want more(not needed) and decided to go down the rabbit hole, here's an informal survey of the [field](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a).
+
+
+## Step 2: Additional Study.
+
 Resources:
-- [Code first approach](https://github.com/gordicaleksa/pytorch-GAT)
+- [For a Code first approach](https://github.com/gordicaleksa/pytorch-GAT)
 - [A 150 page book on Graph representation learning.](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
 Since the area of Graph Neural Networks is relatively new for us, here I'm adding my notes on the same as I'm learning the subject.
