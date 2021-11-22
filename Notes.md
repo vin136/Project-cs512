@@ -5,7 +5,7 @@ To get started,We need some basics. Below I share quick resources to get upto sp
 1. Basic idea of Neural networks
 2. [Attention Mechanism](http://peterbloem.nl/blog/transformers)
 3. [Modeling graphs with neural networks.](https://www.youtube.com/watch?v=zCEYiCxrL_0)
-4. Read this [GAN Paper](https://arxiv.org/abs/1710.10903)
+4. Read this [GAN Paper](https://arxiv.org/abs/1710.10903). This accompanying [video](https://www.youtube.com/watch?v=uFLeKkXWq2c&list=PLBoQnSflObckArGNhOcNg7lQG_f0ZlHF5)  might be helpful.
 
 If you want more(not needed) and decided to go down the rabbit hole, here's an informal survey of the [field](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a).
 
