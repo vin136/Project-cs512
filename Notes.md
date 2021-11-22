@@ -62,5 +62,11 @@ Some exciting applications:
 
 Algorithmic reasoning, Combinatorial optimization, particle physics(yes,they study symmetries), Computational chemistry.
 
+For dynamic graphs
 
+Temporal graph ATTENTION network AND Temporal graph network - from twitter.
+
+Can we pretrain in GNN'S ?
+Yes,already used in industry. Example use GNN to bootstrap using unsupervised/self-supervised losses. Amazon put out [P-companion paper recently](https://assets.amazon.science/d5/16/3f7809974a899a11bacdadefdf24/p-companion-a-principled-framework-for-diversified-complementary-product-recommendation.pdf)
+to bootsrap and then use an MLP in production. Another paper - `Bootstrap representation learning`
 
