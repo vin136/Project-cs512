@@ -8,7 +8,7 @@ To get started,We need some basics. Below I share quick resources to get upto sp
 4. Read this [GAN Paper](https://arxiv.org/abs/1710.10903). This accompanying [video](https://www.youtube.com/watch?v=uFLeKkXWq2c&list=PLBoQnSflObckArGNhOcNg7lQG_f0ZlHF5)  might be helpful.
 5. MF(matrix factorization) based techniques for Recommender systems.
 
-Above ideas form the basis for the application of GNN'S to recommender systems. It is almost obvious how to adapt MF based techniques to make use of graph structure for a typical `user-rating` type dataset. Here's a directly relevant paper -  [NGCF](https://arxiv.org/pdf/1905.08108v2.pdf) 
+Above ideas form the basis for the application of GNN'S to recommender systems. It is almost obvious how to adapt MF based techniques to make use of graph structure for a typical `user-rating` type dataset. Here's a directly relevant paper -  [NGCF](https://arxiv.org/pdf/1905.08108v2.pdf) , [another](https://poseidon01.ssrn.com/delivery.php?ID=965089116025101079020023120099011070005032032002040049023075116078085011076080095095117062001119114023042027011015119101122113015046088093022108122091017029091108090020085076089074076116071016069004123114114088014022027016073071030108007105015009073006&EXT=pdf&INDEX=TRUE)
 
 
 
