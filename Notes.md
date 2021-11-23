@@ -1,3 +1,13 @@
+Get comfortable with Pytorch-> https://pytorch.org/tutorials/beginner/basics/intro.html
+
+
+
+
+
+
+
+
+
 ## Step 1 : Get comfortable with basics.
 
 To get started,We need some basics. Below I share quick resources to get upto speed. But feel free to learn these from anywhere.
