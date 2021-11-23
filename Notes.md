@@ -1,4 +1,5 @@
 Get comfortable with Pytorch-> https://pytorch.org/tutorials/beginner/basics/intro.html
+Here's the paper-> https://arxiv.org/pdf/1708.05031.pdf
 
 
 
