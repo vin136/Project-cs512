@@ -2,6 +2,8 @@ Get comfortable with Pytorch-> https://pytorch.org/tutorials/beginner/basics/int
 
 Here's the paper-> https://arxiv.org/pdf/1708.05031.pdf
 
+For general DeepLearning Concepts -> https://d2l.ai/chapter_recommender-systems/seqrec.html
+
 
 # Ignore all this atm
 
